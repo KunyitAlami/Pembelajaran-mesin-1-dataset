@@ -42,8 +42,8 @@ Dataset dibuat seimbang untuk menghindari bias model.
 ## 📷 Proses Pengambilan Data
 
 - **Perangkat:** Kamera smartphone
-- **Lokasi:** Dalam ruangan (rumah/kamar)
-- **Waktu:** Siang dan malam
+- **Lokasi:** Dalam ruangan
+- **Waktu:** Siang
 - **Resolusi:** Konsisten dan tidak blur berlebihan
 
 Pengambilan dilakukan secara manual dengan memperhatikan standar kualitas citra.
