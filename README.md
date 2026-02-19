@@ -104,8 +104,8 @@ Seluruh gambar merupakan hasil pengambilan langsung.
 ## 👤 Pembuat Dataset
 
 Nama: Ghani Mudzakir  
-Program Studi: Teknologi Informasi FT ULM
-Semester: 6
+Program Studi: Teknologi Informasi FT ULM  
+Semester: 6  
 Kontak: ghanimdzkr3@gmail.com
 
 ---
