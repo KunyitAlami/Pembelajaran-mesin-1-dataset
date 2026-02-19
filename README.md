@@ -69,13 +69,13 @@ Dataset dikumpulkan dengan variasi berikut:
 
 ### 3️⃣ Jarak & Skala
 
-- Jarak dekat (close-up)
-- Jarak sedang (background terlihat)
+- Jarak dekat
+- Jarak sedang
 
 ### 4️⃣ Pencahayaan
 
-- Terang (siang hari)
-- Redup (malam / indoor)
+- Terang
+- Redup
 
 ### 5️⃣ Background
 
