@@ -86,8 +86,7 @@ Dataset dikumpulkan dengan variasi berikut:
 
 ## 🧪 Augmentasi Data
 
-Augmentasi tidak digunakan dalam dataset ini karena jumlah data asli sudah mencukupi (lebih dari 100 gambar).
-
+Augmentasi tidak digunakan dalam dataset ini karena jumlah data asli sudah mencukupi (lebih dari 100 gambar).  
 Seluruh gambar merupakan hasil pengambilan langsung.
 
 ---
@@ -112,4 +111,4 @@ Kontak: ghanimdzkr3@gmail.com
 
 ## 📌 Kesimpulan
 
-Dataset ini terdiri dari 378 gambar dengan distribusi seimbang pada 3 kelas. Dataset telah memenuhi standar variasi sudut, jarak, pencahayaan, dan latar belakang sehingga layak digunakan untuk eksperimen klasifikasi citra berbasis computer vision.
+Dataset ini terdiri dari 453 gambar dengan distribusi seimbang pada 3 kelas (151 gambar/perkelas). Dataset telah memenuhi standar variasi sudut, jarak, pencahayaan, dan latar belakang sehingga layak digunakan untuk eksperimen klasifikasi gambar berbasis computer vision.
