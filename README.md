@@ -41,9 +41,9 @@ Dataset dibuat seimbang untuk menghindari bias model.
 
 | Kelas           | Jumlah Gambar |
 | --------------- | ------------- |
-| Train Set (88%) | 170           |
-| Valid Set (6%)  | 170           |
-| Test Set (6%)   | 170           |
+| Train Set (88%) | 1017          |
+| Valid Set (6%)  | 75            |
+| Test Set (6%)   | 78            |
 
 ---
 
