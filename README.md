@@ -29,13 +29,21 @@ Dataset ini dibuat untuk:
 
 Dataset dibuat seimbang untuk menghindari bias model.
 
+**Dataset Mentah: 510 gambar**
+
 | Kelas  | Jumlah Gambar |
 | ------ | ------------- |
-| Kosong | 151           |
-| Terisi | 151           |
-| Penuh  | 151           |
+| Kosong | 170           |
+| Terisi | 170           |
+| Penuh  | 170           |
 
-**Total Dataset: 453 gambar**
+**Dataset Setelah di Augmented: 1224 gambar**
+
+| Kelas           | Jumlah Gambar |
+| --------------- | ------------- |
+| Train Set (88%) | 170           |
+| Valid Set (6%)  | 170           |
+| Test Set (6%)   | 170           |
 
 ---
 
@@ -111,4 +119,4 @@ Kontak: ghanimdzkr3@gmail.com
 
 ## 📌 Kesimpulan
 
-Dataset ini terdiri dari 453 gambar dengan distribusi seimbang pada 3 kelas (151 gambar/perkelas). Dataset telah memenuhi standar variasi sudut, jarak, pencahayaan, dan latar belakang sehingga layak digunakan untuk eksperimen klasifikasi gambar berbasis computer vision.
+Dataset ini terdiri dari 453 gambar dengan distribusi seimbang pada 3 kelas (170 gambar/perkelas). Dataset telah memenuhi standar variasi sudut, jarak, pencahayaan, dan latar belakang sehingga layak digunakan untuk eksperimen klasifikasi gambar berbasis computer vision.
